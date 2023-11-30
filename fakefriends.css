@@ -1,0 +1,49 @@
+body{
+    background-color: beige;
+}
+
+.parent{
+    background-color: beige;
+    height: 60vh;
+    width: 100vw;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    transition: width 5s,height 5s, transform 2s;
+}
+.c5{
+    width: 750px;
+}
+/* .c2{
+    height: 750px;
+} */
+img{
+    
+    width: 60%;
+    border: black 3px solid;
+}
+
+img:hover{
+    width: 100%;
+    opacity: 0.8;
+    /* rotate: 180deg; */
+}
+/* .parent:hover{
+    transform: scale(0.9);
+} */
+h1{
+    color: brown;
+    text-align:justify;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 10vh;
+  
+}
+span{
+    color:indianred;
+    font-size: x-large;
+    font-weight: 900;}
+
+#img2{
+    width: 77%;
+}

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Nova+Square&family=Poppins&display=swap');
+
+body{
+    background-image: url(/image/food_gallery_background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+
+}
+h1,h3{
+    text-align: center;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Nova Square', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px whitesmoke;
+    
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.150);
+    border: 2px solid rgba(0, 0, 0, 0.300);
+    height: 45vh;
+    width: 26%;
+    float: left;
+    padding: 1%;
+    margin: 1px;
+    margin-left: 4%;
+    margin-bottom: 3%;
+}
+img{
+    height: 70%;
+    width: 99%;
+}

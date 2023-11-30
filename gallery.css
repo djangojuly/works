@@ -1,0 +1,23 @@
+body{
+    background-color:  #810000;
+}
+div{
+    background-color: #f7161696;
+    border: 3px solid black;
+    height: 400px;
+    width: 40%;
+    float: left;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 25px;
+}
+h2,h1{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bolder;
+}
+
+img{
+    height: 300px;
+    width: 100%;
+}

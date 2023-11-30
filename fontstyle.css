@@ -1,0 +1,18 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Nova+Square&family=Poppins&display=swap');
+
+div{
+    background-color: black;
+    color: red;
+    width: 50%;
+    border-radius: 100px;
+    padding: 50px;
+    border: 3px red solid;
+}
+p{
+    font-size: xx-large;
+    font-family: 'Nova Square', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-style: italic;
+
+}

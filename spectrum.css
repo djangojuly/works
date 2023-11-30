@@ -1,0 +1,140 @@
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+
+h3{
+    color: white;
+    font-weight: 700;
+    margin-left: -100px;
+}
+
+div{
+    background-color: rgb(42, 61, 165);
+    height: 100px;
+    width: 70px;
+}
+section{
+    min-width: min-content;
+}
+
+
+#box1{
+    margin-left: 60px;
+    background-color: gray;
+    
+}
+#box2{
+    margin-top: -100px;
+    margin-left: 140px;
+    background-color: darkolivegreen;
+}
+#box3{
+    background-color: rgb(57, 255, 47);
+    margin-top: -100px;
+    margin-left: 220px;
+    
+}
+#box4{
+    background-color: rgb(46, 139, 52);
+    margin-top: -100px;
+    margin-left: 300px;
+   
+}
+#box5{
+    background-color: bisque;
+    margin-top: -100px;
+    margin-left: 380px;
+    
+}
+#box6{
+    background-color: coral;
+    margin-left: -20px;
+   
+}
+#box7{
+    background-color: crimson;
+    margin-top: -100px;
+    margin-left: 60px;
+}
+#box8{
+    margin-top: -100px;
+    margin-left: 140px;
+}#box9{
+    background-color: mediumpurple;
+    margin-top: -100px;
+    margin-left: 220px;
+    
+}
+#box10{
+    background-color: mediumslateblue;
+    margin-top: -100px;
+    margin-left: 300px;
+}
+#box11{
+    background-color: rebeccapurple;
+    margin-top: -100px;
+    margin-left: 380px;
+    
+}
+#box12{
+    background-color: blueviolet;
+    margin-top: -100px;
+    margin-left: 460px;
+}
+#box13{
+    background-color: rgb(203, 192, 255);
+    margin-left: -100px;
+    
+}
+#box14{
+    background-color: peachpuff;
+    margin-top: -100px;
+    margin-left: -20px;
+}
+#box15{
+    background-color: rgb(221, 87, 221);
+    margin-top: -100px;
+    margin-left: 60px;
+
+    
+}
+#box16{
+    background-color: rgb(225, 80, 37);
+    margin-top: -100px;
+    margin-left: 140px;
+}
+#box17{
+    
+    margin-top: -100px;
+    margin-left: 220px;
+    background-color: dimgray;
+    
+}
+#box18{
+    background-color: brown;
+    margin-top: -100px;
+    margin-left: 300px;
+}#box19{
+    margin-top: -100px;
+    margin-left: 380px;
+    background-color: aqua;
+    
+}
+#box20{
+    margin-top: -100px;
+    margin-left: 460px;
+    background-color: azure
+}
+#box21{
+    background-color: rgb(103, 5, 119);
+    margin-top: -100px;
+    margin-left: 540px;
+}
+
+
+
+

@@ -1,0 +1,26 @@
+.parent{
+    height: 500px;
+    background-color: #264653;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box{
+    width: 200px;
+    height: 350px;
+    border: 2px solid red;
+}
+
+.b1{
+    background-color: #e76f51;
+}
+.b2{
+    background-color: #2A9d8f;
+}
+.b3{
+    background-color: #e9c46a;
+}
+.b4{
+    background-color: #f4a261;
+}

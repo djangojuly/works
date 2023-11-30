@@ -1,0 +1,140 @@
+body{
+    background-color: black;
+}
+
+div{
+    background-color: rgb(42, 61, 165);
+    height: 50px;
+    width: 50px;
+   
+    
+
+    
+   
+}
+.row1{
+    
+}
+.row2{
+   
+}
+.row3{
+    
+}
+
+
+#box1{
+    margin-left: 120px;
+    background-color: gray;
+    
+}
+#box2{
+    margin-top: -50px;
+    margin-left: 180px;
+    background-color: darkolivegreen;
+}
+#box3{
+    background-color: greenyellow;
+    margin-top: -50px;
+    margin-left: 240px;
+    
+}
+#box4{
+    background-color: seagreen;
+    margin-top: -50px;
+    margin-left: 300px;
+   
+}
+#box5{
+    background-color: bisque;
+    margin-top: -50px;
+    margin-left: 360px;
+    
+}
+#box6{
+    background-color: coral;
+    margin-left: 60px;
+   
+}
+#box7{
+    background-color: crimson;
+    margin-top: -50px;
+    margin-left: 120px;
+}
+#box8{
+    margin-top: -50px;
+    margin-left: 180px;
+}#box9{
+    background-color: mediumpurple;
+    margin-top: -50px;
+    margin-left: 240px;
+    
+}
+#box10{
+    background-color: mediumslateblue;
+    margin-top: -50px;
+    margin-left: 300px;
+}
+#box11{
+    background-color: rebeccapurple;
+    margin-top: -50px;
+    margin-left: 360px;
+    
+}
+#box12{
+    background-color: blueviolet;
+    margin-top: -50px;
+    margin-left: 420px;
+}
+#box13{
+    background-color: pink;
+    
+}
+#box14{
+    background-color: peachpuff;
+    margin-top: -50px;
+    margin-left: 60px;
+}
+#box15{
+    background-color: blanchedalmond;
+    margin-top: -50px;
+    margin-left: 120px;
+
+    
+}
+#box16{
+    background-color: rgb(136, 136, 48);
+    margin-top: -50px;
+    margin-left: 180px;
+}
+#box17{
+    
+    margin-top: -50px;
+    margin-left: 240px;
+    background-color: dimgray;
+    
+}
+#box18{
+    background-color: brown;
+    margin-top: -50px;
+    margin-left: 300px;
+}#box19{
+    margin-top: -50px;
+    margin-left: 360px;
+    background-color: aqua;
+    
+}
+#box20{
+    margin-top: -50px;
+    margin-left: 420px;
+    background-color: azure
+}
+#box21{
+    background-color: blanchedalmond;
+    margin-top: -50px;
+    margin-left: 480px;
+}
+
+
+
+
